@@ -1,0 +1,21 @@
+#divContainer{
+    text-align: center;
+    display: block;
+}
+#Counter{
+    text-align: center;
+    display: block;
+    font-size: 10em;
+    font-family: 'helvetica';
+}
+.Buttons{
+    padding: 10px 25px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(140, 189, 250);
+    transition: background-color 0.25s;
+    cursor: pointer;
+}
+.Buttons:hover{
+    background-color: rgb(41, 97, 249);
+}
